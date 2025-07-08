@@ -1,0 +1,4 @@
+{
+  "score_decode": 7.660395622253418,
+  "source_decode": "/home/exouser/Capstone/Diffusion-LM-main/improved-diffusion/generation_outputs/diff_e2e-tgt_block_rand16_transformer_lr0.0001_0.0_2000_cosine_Lsimple_h128_s2_d0.1_sd102_xstart_cosine.ema_0.9999_200000.pt.samples_-1.0.json"
+}

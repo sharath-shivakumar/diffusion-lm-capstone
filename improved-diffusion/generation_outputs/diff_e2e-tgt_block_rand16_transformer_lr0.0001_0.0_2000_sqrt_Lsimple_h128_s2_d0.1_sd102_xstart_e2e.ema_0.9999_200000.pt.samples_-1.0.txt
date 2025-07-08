@@ -1,0 +1,199 @@
+food and it is suitable for families . Located by Burger King nearby . 
+ END START The UNK of Cambridge ' The Twenty Two ' is a great place to a and UNK . 
+ END START There is an expensive , poorly rated Italian coffee shop Cocum . It is not child friendly . 
+ END START For cheap fast food at
+you can have Loch Fyne . however it is not family friendly and inexpensive . 
+ END START There is a moderately priced restaurant on the outskirts of Bibimbap House near the Clare Hall . 
+ END START The Eagle , serves Japanese food with a high customer rating 
+ END START The Punter is a 3 - star coffee shop with riverside ,
+Plaza Hotel 
+ END START The Cambridge Blue , a Italian pub that costs under £ 20 , is located near Café Brazil . 
+ END START The Olive Grove is a family friendly pub serving Indian food for less than 20 pounds and is located by the riverside . 
+ END START There is a coffee shop near Burger King in city center
+Rice Boat provides Chinese food in the £ 20 - 25 price range . It is located in the riverside . It is near Express by Holiday Inn . Its customer rating is high . 
+ END START The Strada is a restaurant providing Indian food in the high price range . It is near Rainbow Vegetarian Café . Its customer rating is 3
+the city centre . 
+ END START On the riverside near Raja Indian Cuisine , The Wrestlers is a low priced coffee shop offering Indian food . 
+ END START The Eagle rates 3 out of 5 and serves English food . 
+ END START The Eagle is a low rated coffee shop providing Indian food in the less than £ 20 price range
+START Bibimbap House provides Chinese food in the more than £ 30 price range . It is near Clare Hall . 
+ END START Cocum is a coffee shop that serves Indian food . It has a high customer rating , but it is children friendly and costs more than 30 pounds . 
+ END START The Italian restaurant The Waterman is child friendly
+a Chinese restaurant that is with a moderate price range . It has an average customer rating . It is called Rainbow Vegetarian Café 
+ END START Near the Café Rouge there is a pub called The Plough . It serves food for more than £ 30 and is not child - friendly . 
+ END START Family friendly establishment , Browns Cambridge offers
+restaurant for the family . It is located north of the City centre . 
+ END START The Rice Boat is an expensive , family friendly restaurant with high ratings . It is located in City Centre , near the Express by Holiday Inn . 
+ END START Strada is an expensive , non child - friendly restaurant with a customer rating of 3
+French restaurant . They are located in the city centre and have a low rating . 
+ END START Fitzbillies is located near to the Express by Holiday Inn . It has a high customer rating with a price range of more than £ 30 and is not children friendly . 
+ END START In the riverside area near Raja Indian Cuisine , there
+located in City center . 
+ END START For a non family - friendly environment , visit Browns Cambridge , an Italian restaurant near to The Sorrento . 
+ END START The Vaults offers Japanese food . 
+ END START The Cambridge Blue is a Chinese pub that is moderately priced and serving sushi . 
+ END START The Wrestlers is a Japanese coffee
+Olive Grove . It is not family - friendly . It serves English food for less than £ 20 . 
+ END START The Vaults is a restaurant that serves Indian food . 
+ END START The Golden Palace a restaurant with a rating of 1 out of 5 . It is located near the riverside . 
+ END START Fitzbillies is a child
+area , The Punter has a high price range . 
+ END START The Giraffe is a 3 star rated coffee shop located near The Bakers . It is family friendly . 
+ END START The Rice Boat offers French food and is near Express by Holiday Inn . 
+ END START A Japanese restaurant , Fitzbillies , can be found in the riverside
+It is not family - friendly with a price range of less than £ 20 . It has a low customer rating . 
+ END START Riverside restaurant The Rice Boat offers food and drink . 
+ END START There is a cheap Italian restaurant Browns Cambridge that received an average customer rating . 
+ END START Near Express by Holiday Inn is a
+is near the city centre and Express by Holiday Inn . 
+ END START Wildwood is a pub serving Italian food . It has a price range of 20 - 25 . 
+ END START The Vaults Indian food for less than 20 euros , a no children UNK children allowed . 
+ END START The Twenty Two provides French meals . 
+ END
+Fyne is a family - friendly restaurant that serves fast food . 
+ END START The Punter has Chinese food in the cheap price Range . 
+ END START Located near Express by Holiday Inn , the adult only restaurant The Rice Boat can be found 
+ END START Fitzbillies is a coffee shop and fast food restaurant with a high customer rating .
+rating . 
+ END START The Vaults is a restaurant serving Italian food . 
+ END START The Eagle in the city centre has a high customer rating and a price range of £ 20 - 25 . 
+ END START The Golden Curry is a moderately priced Fast food restaurant located near The Bakers . It is kid friendly . 
+ END START
+restaurant in high price range . 
+ END START Strada has a rating of 3 out of 5 
+ END START The Eagle is a high - priced coffee shop . It is located near Burger King . It is family friendly . 
+ END START For less than £ 20 near Café Adriatic , the Travellers Rest Beefeater has a low customer rating
+friendly . 
+ END START The coffee shop called The Golden Palace has a price of £ 20 - 25 . They serve French variety Indian and are located on the riverside . 
+ END START The Zizzi are , family - friendly , riverside coffee shop , is cheap and has an average customer rating . 
+ END START Low priced English food
+has a high price range and a customer rating of 3 out of 5 . 
+ END START Loch Fyne is located near The Rice Boat in the city centre and serves Japanese food . It has been rated 5 out of 5 . 
+ END START The Golden Curry is a kids Friendly Fast food venue with a high customer rating . 
+
+. 
+ END START The Rice Boat is a 5 star , family friendly restaurant located by Express by Holiday Inn . It serves cheap food . 
+ END START Browns Cambridge offers Indian food with a high price range , and a customer rated 1 out of 5 . 
+ END START The Dumpling Tree provides Indian food in the cheap price range
+friendly establishment can be found in the city centre . 
+ END START Located near Express by Holiday Inn , The Rice Boat offers low priced French food . Rated 5 out of 5 by customers 
+ END START Wildwood is the best UNK 
+ END START Near The Six Bells there is a family friendly place called The Golden Curry . 
+ END
+restaurant with a low customer rating . 
+ END START The Eagle is a 5 star coffee shop next to Burger King 
+ END START Located near All Bar One , Green Man is family friendly , serves fast food , and is in the medium price range . 
+ END START The Rice Boat serves Chinese food and has a cheap price range
+rating . 
+ END START Loch Fyne is a family friendly restaurant offering Chinese food at reasonable prices . 
+ END START Browns Cambridge is an Italian coffee shop located near Crowne Plaza Hotel in the city centre . It has a customer rating of low and is not family - friendly . 
+ END START Browns Cambridge offers a cheap price range of
+near Yippee Noodle Bar . 
+ END START There is a coffee shop called Clowns on the riverside near Clare Hall , it is serving fast food and has a perfect rating . 
+ END START The Loch Fyne serves English food and has a kid friendly environment . 
+ END START Blue Spice serves French food in the riverside are less than £
+£ 30 price range . 
+ END START Yes , The Waterman is a French restaurant with low customer rating . 
+ END START The Golden Curry is a Chinese restaurant with an average rating and is family friendly . 
+ END START The Dumpling Tree is a moderately priced restaurant that serves English food . 
+ END START Located near The Six Bells
+Indian food in the more than £ 30 price range and has a high customer rating . It is not child friendly . 
+ END START Located riverside near Express by Holiday Inn , The Rice Boat , is a cheap Italian restaurant called The Rice Boat . It has a rating of 5 out of 5 but is not family - friendly .
+not family friendly for Japanese food . 
+ END START There is a riverside French restaurant called Green Man near All Bar One . It is not family - friendly , but has a price range of £ 30 or over . 
+ END START The Wrestlers is a family friendly fast food establishment with a price range less than £ 20 . It
+is located in the city centre near Express by Holiday Inn . 
+ END START Near The Rice Boat with a customer rating rating of 3 out of 5 is a Japanese restaurant named Loch Fyne . 
+ END START The Waterman is a kid - friendly fast food place , near Crown Plaza Hotel . 
+ END START The Mill is a Japanese
+Clowns . This coffee shop is an average venue located in Riverside near Clare Hall . 
+ END START The Phoenix is a 5 - starred British restaurant with a medium prices , right next to the river . 
+ END START An Indian restaurant , called Loch Fyne is not family friendly and costs less than £ 20 . 
+ END START In
+located in the city centre area . It is child friendly and has a moderate price range . 
+ END START Zizzi is a pub . It is children friendly . Customers rate them 1 out of 5 stars . 
+ END START Aromi is a kid friendly French coffee shop located in the riverside area with a high customer rating . 
+ END
+has a customer rating 1 out of 5 and is not kids friendly . 
+ END START The Cocum is an expensive , children friendly pub with a customer rating of 3 out of 5 . 
+ END START Near Burger King in Riverside is a kid friendly coffee shop called The Eagle which has moderate prices . 
+ END START Browns Cambridge is
+friendly Chinese restaurant , The Golden Curry , near Café Rouge . 
+ END START English under £ 20 English food is served at The Dumpling Tree 
+ END START The Cambridge Blue is an Italian restaurant . It has average ratings . 
+ END START Midsummer House is a cheap Indian restaurant located near All Bar One . It has an average rating
+of 5 is The Rice Boat . 
+ END START The Wrestlers is a coffee shop for the food . We are located close to Raja Indian Cuisine , family friendly . Moderately priced . 
+ END START Clowns restaurant offers a UNK taste of UNK at Café Sicilia . A store , children are not permitted . 
+ END START Fitzbillies is a
+serves English food , with a low customer rating . 
+ END START The Phoenix is a cheap Japanese restaurant on the riverside with an average customer rating . 
+ END START By the river from Express by Holiday Inn you will find the low - rated family friendly Fast food restaurant The Rice Boat . 
+ END START The family friendly Italian restaurant
+rate it 1 out of 5 . 
+ END START Bibimbap House , in the riverside area near Clare Hall , with a low price range 
+ END START Strada is a non - child friendly English restaurant , with a high price range , and a customer rating of 1 out of 5 near Rainbow Vegetarian Café . 
+ END START The Eagle
+a child friendly restaurant , with a price range over 30 . 
+ END START Located in the UNK of city centre serving fast food , The Rice Boat is suitable for families and has low customer satisfaction . 
+ END START Loch Fyne is an inexpensive family friendly restaurant . 
+ END START The Golden Palace coffee shop on the riverside has cheap
+They are called Fitzbillies . They serve English food . 
+ END START In the riverside you will find the low priced , family friendly Blue Spice . 
+ END START The Olive Grove is a pub in the city centre with a moderate price range for Japanese food . 
+ END START Fitzbillies near The Six Bells is a cheap price ranged Fast
+. It serves mid - priced family - friendly environment . 
+ END START The Rice Boat , located on the riverside near the Express by Holiday Inn , serves cheap English food . 
+ END START A child friendly restaurant called Cocum has a customer rating of 3 out of 5 . 
+ END START Blue Spice on the riverside has for less
+rating 1 out of 5 . 
+ END START The Phoenix cost is less than £ 20 , located in Riverside that serves English food with a low customer rating . Yes , it is UNK that UNK . 
+ END START The Eagle serves Japanese food and has a customer rating of 3 out of 5 . 
+ END START The Punter is
+is fairly priced and is also kid friendly . 
+ END START For French food , you can go to the centre restaurant called Aromi . 
+ END START In riverside there is a family friendly Chinese food with an average customer rating called The Rice Boat . 
+ END START For a moderate price , you can find UNK The Vaults coffee shop
+a restaurant providing Chinese food in the cheap price range . It is located in the riverside . 
+ END START Indian coffee shop in riverside near Clare Hall is Clowns . Its customer rating is low . 
+ END START There is a moderate price range restaurant named Loch Fyne that provides Chinese food and it is not kids friendly . 
+ END
+. 
+ END START For French food priced less than £ 20 visit Browns Cambridge which has an average customer rating . 
+ END START With a 5 out of 5 customer rating Cotto , which offers Japanese food , family friendly service to eat . 
+ END START The Loch Fyne is kid friendly and serves Chinese . 
+ END START Browns Cambridge
+out of 5 . 
+ END START UNK to take children 's at Zizzi . It is an expensive restaurant . 
+ END START Fitzbillies , located near The Six Bells , does high priced French food 
+ END START The Punter restaurant serves French food at low prices . 
+ END START The Cocum is a high priced coffee shop that sells fast
+has a cheap price range and a 5 out of 5 customer rating . 
+ END START The Cocum is a restaurant of average customer ratings that is not family - friendly . 
+ END START Aromi is pub in the riverside area . It 's kids friendly and rated 1 out of 5 . 
+ END START Fitzbillies near Express by Holiday Inn
+Bar One . average customer rating and has a high price range . 
+ END START In riverside Browns Cambridge . Giraffe serves English food and family friendly . 
+ END START The Rice Boat is an affordable fast food restaurant in the city centre serving UNK for higher than average prices . It is near the Express by Holiday Inn . 
+ END
+north of the city center . 
+ END START Fitzbillies is a Chinese restaurant near The Six Bells more than £ 30 . 
+ END START Midsummer House is an expensive Chinese food restaurant in the city centre near All Bar One . 
+ END START There is a low - priced pub The Plough located Café Rouge which welcomes families . 
+ END
+food . It is expensive , and it near Café Rouge . 
+ END START Aromi is a pub in the riverside area . It is not family - friendly and the rating is low . 
+ END START The Wrestlers is a highly priced , child - friendly fast food restaurant . 
+ END START The Rice Boat is a kid friendly fast
+5 . 
+ END START The Eagle coffee shop near Burger King in city centre has a moderate price range and is kid friendly with a customer rating of 1 out of 5 . 
+ END START There is a reasonably priced restaurant The Dumpling Tree . It serves Italian food . 
+ END START Fast food is offered is available at The Cambridge
+END START In the riverside you will find The Eagle , a family friendly cheap coffee shop near Burger King . They sell cheap fast food and have a 5 out of 5 rating . 
+ END START Loch Fyne is an Italian near The Rice Boat in riverside , with a customer rating of 1 out of 5 . 
+ END START For
+. 
+ END START The Mill is a French pub in the city centre area in the cheap price range . 
+ END START customer rated 3 out of 5 , The Eagle serves Indian food . 
+ END START There is a not family - friendly pub serving English food , The Dumpling Tree , is located near The Portland Arms . 
+
